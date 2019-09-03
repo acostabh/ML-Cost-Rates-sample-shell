@@ -16,5 +16,5 @@ This shell script (Mac/Linux) uses a Mavenlink API endpoint to view all the usr 
 
   1. Open terminal
   2. Navigate to the folder where you saved the script
-    - E.G: cd ~/Documents/ML-Cost-Rates-shell
+    - E.G: cd ~/Documents/ML-Cost-Rates-sample-shell
   3. Run the script: ./get_cost_rate.sh
